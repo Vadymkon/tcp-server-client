@@ -1,0 +1,384 @@
+﻿Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Creating EventLog source TCP-Server in log Application...
+Rolling back assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Restoring event log to previous state for source TCP-Server.
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Warning: The source TCP-Server is not registered on the local machine.
+Service TCP-Server is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Creating EventLog source TCP-Server in log Application...
+Rolling back assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Restoring event log to previous state for source TCP-Server.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Warning: The source TCP-Server is not registered on the local machine.
+Service TCP-Server is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Creating EventLog source TCP-Server in log Application...
+Rolling back assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Restoring event log to previous state for source TCP-Server.
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Warning: The source TCP-Server is not registered on the local machine.
+Service TCP-Server is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Uninstalling assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Removing EventLog source TCP-Server.
+Service TCP-Server is being removed from the system...
+Service TCP-Server was successfully removed from the system.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Creating EventLog source TCP-Server in log Application...
+Rolling back assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Restoring event log to previous state for source TCP-Server.
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Service TCP-Server has been successfully installed.
+Creating EventLog source TCP-Server in log Application...
+Committing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Installing service TCP-Server...
+Creating EventLog source TCP-Server in log Application...
+Rolling back assembly 'C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+   logfile = C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.InstallLog
+Restoring event log to previous state for source TCP-Server.

@@ -1,0 +1,9 @@
+C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\knu\spz\4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\knu\spz\4\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\knu\spz\4\Lab4\Lab4\obj\Debug\Lab4.ProjectInstaller.resources
+C:\knu\spz\4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\knu\spz\4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\knu\spz\4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\knu\spz\4\Lab4\Lab4\obj\Debug\Lab4.pdb

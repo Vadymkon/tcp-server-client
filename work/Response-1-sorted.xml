@@ -1,0 +1,45 @@
+<Response>
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="1292031250" />
+  <Process Description="WmiPrvSE.exe" ExecutablePath="C:\Windows\system32\wbem\wmiprvse.exe" KernelModeTime="470781250" />
+  <Process Description="SearchIndexer.exe" ExecutablePath="C:\Windows\system32\SearchIndexer.exe" KernelModeTime="402812500" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\System32\svchost.exe" KernelModeTime="122031250" />
+  <Process Description="vmwp.exe" ExecutablePath="C:\Windows\System32\vmwp.exe" KernelModeTime="110156250" />
+  <Process Description="dwm.exe" ExecutablePath="C:\Windows\system32\dwm.exe" KernelModeTime="88125000" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\System32\svchost.exe" KernelModeTime="86562500" />
+  <Process Description="vmms.exe" ExecutablePath="C:\Windows\system32\vmms.exe" KernelModeTime="84062500" />
+  <Process Description="vmconnect.exe" ExecutablePath="C:\Windows\system32\VmConnect.exe" KernelModeTime="63437500" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="60312500" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="42031250" />
+  <Process Description="lsass.exe" ExecutablePath="C:\Windows\system32\lsass.exe" KernelModeTime="35468750" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="28437500" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\System32\svchost.exe" KernelModeTime="20625000" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="19687500" />
+  <Process Description="RuntimeBroker.exe" ExecutablePath="C:\Windows\System32\RuntimeBroker.exe" KernelModeTime="15468750" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\System32\svchost.exe" KernelModeTime="15000000" />
+  <Process Description="mmc.exe" ExecutablePath="C:\Windows\system32\mmc.exe" KernelModeTime="14375000" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="14218750" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\System32\svchost.exe" KernelModeTime="12968750" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\System32\svchost.exe" KernelModeTime="10781250" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="6718750" />
+  <Process Description="ApplicationFrameHost.exe" ExecutablePath="C:\Windows\system32\ApplicationFrameHost.exe" KernelModeTime="3281250" />
+  <Process Description="taskhostw.exe" ExecutablePath="C:\Windows\system32\taskhostw.exe" KernelModeTime="3281250" />
+  <Process Description="sihost.exe" ExecutablePath="C:\Windows\system32\sihost.exe" KernelModeTime="3281250" />
+  <Process Description="vmcompute.exe" ExecutablePath="C:\Windows\system32\vmcompute.exe" KernelModeTime="3281250" />
+  <Process Description="spoolsv.exe" ExecutablePath="C:\Windows\System32\spoolsv.exe" KernelModeTime="3125000" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="2031250" />
+  <Process Description="dllhost.exe" ExecutablePath="C:\Windows\system32\DllHost.exe" KernelModeTime="1718750" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="1718750" />
+  <Process Description="svchost.exe" ExecutablePath="C:\Windows\system32\svchost.exe" KernelModeTime="1250000" />
+  <Process Description="conhost.exe" ExecutablePath="C:\Windows\system32\conhost.exe" KernelModeTime="937500" />
+  <Process Description="WmiPrvSE.exe" ExecutablePath="C:\Windows\system32\wbem\wmiprvse.exe" KernelModeTime="781250" />
+  <Process Description="winlogon.exe" ExecutablePath="C:\Windows\system32\winlogon.exe" KernelModeTime="781250" />
+  <Process Description="dllhost.exe" ExecutablePath="C:\Windows\system32\dllhost.exe" KernelModeTime="625000" />
+  <Process Description="msdtc.exe" ExecutablePath="C:\Windows\System32\msdtc.exe" KernelModeTime="468750" />
+  <Process Description="SearchProtocolHost.exe" ExecutablePath="C:\Windows\system32\SearchProtocolHost.exe" KernelModeTime="312500" />
+  <Process Description="prevhost.exe" ExecutablePath="C:\Windows\system32\prevhost.exe" KernelModeTime="312500" />
+  <Process Description="cmd.exe" ExecutablePath="C:\Windows\system32\cmd.exe" KernelModeTime="156250" />
+  <Process Description="vm3dservice.exe" ExecutablePath="C:\Windows\system32\vm3dservice.exe" KernelModeTime="156250" />
+  <Process Description="SearchFilterHost.exe" ExecutablePath="C:\Windows\system32\SearchFilterHost.exe" KernelModeTime="0" />
+  <Process Description="vm3dservice.exe" ExecutablePath="C:\Windows\system32\vm3dservice.exe" KernelModeTime="0" />
+</Response>
+<Response />
